@@ -1,0 +1,14 @@
+article {width: fit-content;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #07091b}
+
+#rosa {color: fuchsia;
+font-size: 22px;
+line-height: 4px;}
+
+.verde {color: rgb(8, 119, 8);
+font-size: 22px;
+line-height: 4px;}
+
